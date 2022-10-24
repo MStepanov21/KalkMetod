@@ -68,28 +68,5 @@ public static void proverka(float otvet){
         }
 }
 
-//            System.out.println("Введите второе число");
-//            int num2 = sc.nextInt();
-//
-//            System.out.println("Введите действие в виде символа");
-//            String s = sc.nextLine();
-//
-//            if (s.equals(+)) {
-//                System.out.println(num1 + num2);
-//
-//            } else if (s.equals(*)){
-//                System.out.println(num1 * num2);
-//
-//            }else if (s.equals(/)){
-//                System.out.println(num1 / num2);
-//
-//            }else if (s.equals(-)) {
-//                System.out.println(num1 - num2);
-//            } else {
-//                System.out.println("Неправильный символ");
-//            }
-//
 
-
-
-    }
+}
